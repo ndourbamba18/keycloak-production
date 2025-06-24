@@ -90,14 +90,14 @@ docker-compose -f docker-compose.yaml up -d
 - 🌐 http://server_ip_address:8080
 - 👤 Identifiants : admin / admin
 
-# ![Écran de login administrateur Keycloak](images/00.png)
+![Écran de login administrateur Keycloak](images/00.png{: width="100%"})
 
 ## 🖥 Démonstration de l'Interface Keycloak
 
 
 ### 1. Connexion à l'Admin Console
 
-![Écran de login administrateur Keycloak](images/01.png){: width="100%"}
+![Écran de login administrateur Keycloak](images/01.png)
 
 ### 2. Création d'un Realm
 Un Realm est un espace isolé pour gérer utilisateurs et applications.
