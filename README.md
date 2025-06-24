@@ -90,7 +90,7 @@ docker-compose -f docker-compose.yaml up -d
 - 🌐 http://server_ip_address:8080
 - 👤 Identifiants : admin / admin
 
-!![Écran de login administrateur Keycloak](images/00.png)
+# ![Écran de login administrateur Keycloak](images/00.png)
 
 ## 🖥 Démonstration de l'Interface Keycloak
 
