@@ -96,19 +96,44 @@ docker-compose -f docker-compose.yaml up -d
 
 
 ### 1. Connexion à l'Admin Console
-https://via.placeholder.com/600x400?text=Keycloak+Login+Screen
+
+![Écran de login administrateur Keycloak](images/01.png)
 
 ### 2. Création d'un Realm
 Un Realm est un espace isolé pour gérer utilisateurs et applications.
-https://via.placeholder.com/600x400?text=Create+Realm+Keycloak
+![Création d'un nouveau realm](images/webstore_00.png)
+
+![Création d'un nouveau realm](images/webstore_01.png)
 
 ### 3. Configuration d'un Client (Application)
 Ajoutez un client pour une application avec OpenID Connect.
-https://via.placeholder.com/600x400?text=OIDC+Client+Setup
+![Configuration OIDC Client](images/client_00.png)
+
+![Configuration OIDC Client](images/client_01.png)
+
+![Configuration OIDC Client](images/client_02.png)
+
+![Configuration OIDC Client](images/client_03.png)
+
+![Configuration OIDC Client](images/client_04.png)
+
+![Configuration OIDC Client](images/client_05.png)
 
 ### 4. Ajout d'Utilisateurs et Rôles
 Créez des utilisateurs et assignez-leur des permissions.
-https://via.placeholder.com/600x400?text=User+Roles+in+Keycloak
+![Configuration OIDC Client](images/user_00.png)
+
+![Configuration OIDC Client](images/user_01.png)
+
+![Configuration OIDC Client](images/user_02.png)
+
+![Configuration OIDC Client](images/a_00.png)
+
+![Configuration OIDC Client](images/a_01.png)
+
+![Configuration OIDC Client](images/a_02.png)
+
+![Configuration OIDC Client](images/a_03.png)
 
 #💡 Pourquoi Docker Compose en Production ?
 - Isolation : Conteneurisation sécurisée
