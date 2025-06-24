@@ -127,6 +127,13 @@ Créez des utilisateurs et assignez-leur des permissions.
 
 ![Configuration OIDC Client](images/user_02.png)
 
+### 5. Se connecter en tant que nouvel utilisateur
+
+*Étapes :*  
+   - Aller sur `http://localhost:8080/realms/WebStore/account/`
+       
+   - Saisir les identifiants du nouvel utilisateur 
+
 ![Configuration OIDC Client](images/a_00.png)
 
 ![Configuration OIDC Client](images/a_01.png)
