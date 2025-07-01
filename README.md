@@ -1,3 +1,8 @@
+
+![Keycloak](https://img.shields.io/badge/Keycloak-Production--Ready-blue?style=for-the-badge&logo=keycloak)
+![Docker](https://img.shields.io/badge/Docker-Compose-informational?style=for-the-badge&logo=docker)
+![Status](https://img.shields.io/badge/Status-Stable-brightgreen?style=for-the-badge)
+
 # Déploiement de Keycloak en environnement de production via Docker Compose
 
 ## 🔐 Qu'est-ce que Keycloak ?
